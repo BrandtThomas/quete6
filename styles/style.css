@@ -1,0 +1,29 @@
+test{
+    color : #141E32;
+    color : #FCFCFC;
+    color : #000000;
+    color : #0084FF;
+    color : #EBEBEB;
+    color : #d9d9d9;
+}
+
+.cadre{
+    background-color: #d9d9d9;
+}
+
+.colorTextBlanc{
+    color: white ;
+}
+
+.backgroundTexte{
+    background-color: white;
+}
+
+.card-img-top {
+    height: 27vh;
+    object-fit: cover;
+}
+
+.navbar-custom{ 
+    background-color: #141E32 !important;
+}
